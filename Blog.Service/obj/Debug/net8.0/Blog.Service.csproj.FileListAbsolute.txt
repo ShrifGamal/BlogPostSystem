@@ -1,0 +1,17 @@
+E:\API\Blog\Blog.Service\bin\Debug\net8.0\Blog.Service.deps.json
+E:\API\Blog\Blog.Service\bin\Debug\net8.0\Blog.Service.dll
+E:\API\Blog\Blog.Service\bin\Debug\net8.0\Blog.Service.pdb
+E:\API\Blog\Blog.Service\bin\Debug\net8.0\Blog.Core.dll
+E:\API\Blog\Blog.Service\bin\Debug\net8.0\Blog.Repository.dll
+E:\API\Blog\Blog.Service\bin\Debug\net8.0\Blog.Repository.pdb
+E:\API\Blog\Blog.Service\bin\Debug\net8.0\Blog.Core.pdb
+E:\API\Blog\Blog.Service\obj\Debug\net8.0\Blog.Service.csproj.AssemblyReference.cache
+E:\API\Blog\Blog.Service\obj\Debug\net8.0\Blog.Service.GeneratedMSBuildEditorConfig.editorconfig
+E:\API\Blog\Blog.Service\obj\Debug\net8.0\Blog.Service.AssemblyInfoInputs.cache
+E:\API\Blog\Blog.Service\obj\Debug\net8.0\Blog.Service.AssemblyInfo.cs
+E:\API\Blog\Blog.Service\obj\Debug\net8.0\Blog.Service.csproj.CoreCompileInputs.cache
+E:\API\Blog\Blog.Service\obj\Debug\net8.0\Blog.Ser.A0DBEB3C.Up2Date
+E:\API\Blog\Blog.Service\obj\Debug\net8.0\Blog.Service.dll
+E:\API\Blog\Blog.Service\obj\Debug\net8.0\refint\Blog.Service.dll
+E:\API\Blog\Blog.Service\obj\Debug\net8.0\Blog.Service.pdb
+E:\API\Blog\Blog.Service\obj\Debug\net8.0\ref\Blog.Service.dll
