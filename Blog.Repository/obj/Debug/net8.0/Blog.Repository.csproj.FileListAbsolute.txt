@@ -1,0 +1,15 @@
+E:\API\Blog\Blog.Repository\bin\Debug\net8.0\Blog.Repository.deps.json
+E:\API\Blog\Blog.Repository\bin\Debug\net8.0\Blog.Repository.dll
+E:\API\Blog\Blog.Repository\bin\Debug\net8.0\Blog.Repository.pdb
+E:\API\Blog\Blog.Repository\bin\Debug\net8.0\Blog.Core.dll
+E:\API\Blog\Blog.Repository\bin\Debug\net8.0\Blog.Core.pdb
+E:\API\Blog\Blog.Repository\obj\Debug\net8.0\Blog.Repository.csproj.AssemblyReference.cache
+E:\API\Blog\Blog.Repository\obj\Debug\net8.0\Blog.Repository.GeneratedMSBuildEditorConfig.editorconfig
+E:\API\Blog\Blog.Repository\obj\Debug\net8.0\Blog.Repository.AssemblyInfoInputs.cache
+E:\API\Blog\Blog.Repository\obj\Debug\net8.0\Blog.Repository.AssemblyInfo.cs
+E:\API\Blog\Blog.Repository\obj\Debug\net8.0\Blog.Repository.csproj.CoreCompileInputs.cache
+E:\API\Blog\Blog.Repository\obj\Debug\net8.0\Blog.Rep.0FA392E5.Up2Date
+E:\API\Blog\Blog.Repository\obj\Debug\net8.0\Blog.Repository.dll
+E:\API\Blog\Blog.Repository\obj\Debug\net8.0\refint\Blog.Repository.dll
+E:\API\Blog\Blog.Repository\obj\Debug\net8.0\Blog.Repository.pdb
+E:\API\Blog\Blog.Repository\obj\Debug\net8.0\ref\Blog.Repository.dll
